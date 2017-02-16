@@ -1,0 +1,44 @@
+*{
+	margin: auto;
+}
+
+
+.parent{
+	width: 800px;
+	height: 500px;
+	margin-top: 90px;
+}
+.one,.two{
+	height: 200px;
+	width: 400px;
+}
+.one{
+	background-color: green;
+}
+.two{
+	background-color: blue;
+}
+.first,.second{
+	font-size: 0;
+
+}
+.three,.four,.five{
+	height: 300px;
+	width: 33.3333%;
+	font-size: 0;
+
+}
+.three{
+	background-color: grey;
+}
+.four{
+	background-color: black;
+}
+.five{
+	background-color: orange;
+}
+.box{
+	display: inline-block;
+	border:1px solid black;
+
+}
